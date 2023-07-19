@@ -3,3 +3,5 @@
 These are my personal notes from The Missing Semester of Your CS Education. The notes include topics covered in the lectures and also additional notes on the same topics. 
 
 All code samples are for Mac OS Ventura 13.4 on Apple Silicon (M1) unless mentioned otherwise.
+
+[Lecture 1 - Lecture 1 - Course overview + the shell](lecture-1-Course_overview_plus_the_shell.md)
