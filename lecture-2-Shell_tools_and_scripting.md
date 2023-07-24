@@ -86,4 +86,16 @@ The **shebang** or **hashbang** is the optional first line of a shell script tha
 
 **`broot`** is a file manager and directory management tool that can be used as an alternative to `ls`. `nnn` is another alternative. `fd` is an interactive alternate.
 
-***`tree`*** command can be used to display the contents of a directory in a tree-like format. 
+**`tree`** command can be used to display the contents of a directory in a tree-like format. 
+
+**`xrgs`** can be used to convert STDIN to arguments.
+
+```
+echo "file1.txt file2.txt file3.txt" | xargs rm
+```
+
+is the same as running
+
+```
+rm file1.txt file2.txt file3.txt
+```
