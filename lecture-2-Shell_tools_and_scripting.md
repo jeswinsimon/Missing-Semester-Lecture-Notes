@@ -99,3 +99,5 @@ is the same as running
 ```
 rm file1.txt file2.txt file3.txt
 ```
+
+**Back i search** - `ctrl + r` in the shell activates back-i-search, which allows searching through previous commands.
