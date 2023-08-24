@@ -7,4 +7,4 @@ All code samples are for Mac OS Ventura 13.4 on Apple Silicon (M1) unless mentio
 * [Lecture 1 - Course overview + the shell](lecture-1-Course_overview_plus_the_shell.md)
 * [Lecture 2 - Shell Tools and Scripting](lecture-2-Shell_tools_and_scripting.md)
 * [Lecture 3 - Editors (vim)](lecture-3-Editors_vim.md)
-* [Lecture 4 - Data Wrangling](lecture-4-Data-wrangling.md)
+* [Lecture 4 - Data Wrangling](lecture-4-Data_Wrangling.md)
